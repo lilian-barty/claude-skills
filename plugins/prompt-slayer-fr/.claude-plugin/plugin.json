@@ -1,0 +1,22 @@
+{
+  "name": "prompt-slayer-fr",
+  "displayName": "Prompt Slayer (français)",
+  "version": "1.0.0",
+  "description": "Fabrique des prompts prêts à coller dans d'autres IA et dans les automatisations (n8n, Make, GPTs personnalisés, agents), avec une version portable et un plan de test en 3 cas. Ne fait jamais la tâche elle-même.",
+  "author": {
+    "name": "Lilian Barty-Christophe",
+    "url": "https://www.lilian-barty.fr/"
+  },
+  "homepage": "https://github.com/lilian-barty/claude-skills/blob/main/README.fr.md",
+  "repository": "https://github.com/lilian-barty/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "prompt-engineering",
+    "prompts",
+    "n8n",
+    "make",
+    "francais",
+    "claude-code",
+    "skill"
+  ]
+}

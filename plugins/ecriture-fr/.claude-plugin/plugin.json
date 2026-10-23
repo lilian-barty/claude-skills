@@ -1,0 +1,23 @@
+{
+  "name": "ecriture-fr",
+  "displayName": "Écriture en français (diagnostic, sans tics d'IA, relecture finale)",
+  "version": "1.0.0",
+  "description": "Trois skills pour écrire en français avec l'IA : diagnostic-tics-ia note les tics d'un texte sur 25, ecrire-sans-tics-ia les retire (anglais compris), relecture-finale corrige fautes et typographie et contrôle la cohérence d'un paquet de documents par script.",
+  "author": {
+    "name": "Lilian Barty-Christophe",
+    "url": "https://www.lilian-barty.fr/"
+  },
+  "homepage": "https://github.com/lilian-barty/claude-skills/blob/main/README.fr.md",
+  "repository": "https://github.com/lilian-barty/claude-skills",
+  "license": "MIT",
+  "keywords": [
+    "writing",
+    "francais",
+    "proofreading",
+    "relecture",
+    "typographie",
+    "ai-writing",
+    "claude-code",
+    "skill"
+  ]
+}
